@@ -34,5 +34,6 @@ The roadmap (that is, what is was, is, and will be done) is available on [michae
 
 ### Badges test
 
-https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?retina=true
+![](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?retina=true)
+
 
