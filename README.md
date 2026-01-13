@@ -42,6 +42,11 @@ The roadmap (that is, what is was, is, and will be done) is available on [michae
 
 ![Test](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)
 
+![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva)
+
+![Test](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva)
+
+
 
 
 
