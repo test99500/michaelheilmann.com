@@ -31,3 +31,8 @@ the repositories https://github.com/michaelheilmann/michaelheilmann.com and http
 
 ### Roadmap
 The roadmap (that is, what is was, is, and will be done) is available on [michaelheilmann.com/roadmap](https://michaelheilmann.com/roadmap).
+
+### Badges test
+
+https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?retina=true
+
