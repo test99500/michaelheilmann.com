@@ -25,7 +25,7 @@ the repositories https://github.com/michaelheilmann/michaelheilmann.com and http
 
 ### Build status
 - Windows Main ![Build status](https://ci.appveyor.com/api/projects/status/og37g8g7t984xtt2/branch/main?svg=true)
-- Windows Develop [![Build status](https://ci.appveyor.com/api/projects/status/og37g8g7t984xtt2/branch/develop?svg=true)](https://ci.appveyor.com/project/michaelheilmann-com/michaelheilmann-com-windows/branch/develop)
+- Windows Develop ![Build status](https://ci.appveyor.com/project/michaelheilmann-com/michaelheilmann-com-windows/branch/develop)
 - Linux Main [![Build status](https://ci.appveyor.com/api/projects/status/mb5gqtaq9cds3xs2/branch/main?svg=true)](https://ci.appveyor.com/project/michaelheilmann-com/michaelheilmann-com-linux/branch/main)
 - Linux Develop [![Build status](https://ci.appveyor.com/api/projects/status/mb5gqtaq9cds3xs2/branch/develop?svg=true)](https://ci.appveyor.com/project/michaelheilmann-com/michaelheilmann-com-linux/branch/develop)
 
