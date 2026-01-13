@@ -34,9 +34,12 @@ The roadmap (that is, what is was, is, and will be done) is available on [michae
 
 ### Badges test
 
-[![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)
+![Build status](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)](https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true)
+
+![Test status](http://teststatusbadge.azurewebsites.net/api/status/mmaitre314/securestringcodegen)
 
 [![Build status](ci.appveyor.com)](ci.appveyor.com)
+
 
 
 
